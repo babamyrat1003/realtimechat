@@ -1,0 +1,8 @@
+C:\Users\user_pc\Desktop\signalr\signalr\realtimechat\obj\Release\net6.0\PubTmp\Out\realtimechat.exe
+C:\Users\user_pc\Desktop\signalr\signalr\realtimechat\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\user_pc\Desktop\signalr\signalr\realtimechat\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\user_pc\Desktop\signalr\signalr\realtimechat\obj\Release\net6.0\PubTmp\Out\libman.json
+C:\Users\user_pc\Desktop\signalr\signalr\realtimechat\obj\Release\net6.0\PubTmp\Out\realtimechat.dll
+C:\Users\user_pc\Desktop\signalr\signalr\realtimechat\obj\Release\net6.0\PubTmp\Out\realtimechat.deps.json
+C:\Users\user_pc\Desktop\signalr\signalr\realtimechat\obj\Release\net6.0\PubTmp\Out\realtimechat.runtimeconfig.json
+C:\Users\user_pc\Desktop\signalr\signalr\realtimechat\obj\Release\net6.0\PubTmp\Out\realtimechat.pdb
